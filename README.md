@@ -2,6 +2,7 @@
 
 Track Database Activity with NodeJs
 Based on this [package](https://www.npmjs.com/package/@rodrigogs/mysql-events).
+
 **Connection**
 ``` javascript
 const connection = mysql.createConnection({
